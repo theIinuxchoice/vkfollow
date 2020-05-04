@@ -4,13 +4,13 @@ from email.mime.text import MIMEText
 import requests
 banner = '''
 _____________________________________________
-|              								 |
-|											 |
-|	      THE LINUXCHOICE --- V.3.0			 |							 
-|				vk-followers				 |
-|											 |
-|											 |
-|____________________________________________|
+|              				    |
+|					    |
+|	      THE LINUXCHOICE --- V.3.0	    |							 
+|		vk-followers| 
+|					    |
+|					    |
+|___________________________________________|
 '''
 print(banner)
 phone = input('Enter your phone number from vk ----->')
